@@ -14,3 +14,8 @@ value_of_pi = 3.14
 #Boolean data type examples
 turing_is_easy = false
 ice_cream_is_good = true
+
+#Array data type examples
+future_test_scores = [90, 95, 100, 95, 100]
+pet_names = ["Butters", "Bingo", "Monty"]
+answer_key = [true, false, false, true, false, true, true]
