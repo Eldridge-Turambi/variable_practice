@@ -10,3 +10,7 @@ outside_temperature_fahrenheit = 90
 #Float data type examples
 interest_rate = 0.05
 value_of_pi = 3.14
+
+#Boolean data type examples
+turing_is_easy = false
+ice_cream_is_good = true
