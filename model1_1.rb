@@ -19,3 +19,7 @@ ice_cream_is_good = true
 future_test_scores = [90, 95, 100, 95, 100]
 pet_names = ["Butters", "Bingo", "Monty"]
 answer_key = [true, false, false, true, false, true, true]
+
+#Hash data type examples: Please confirm is this is proper syntax for Hash type
+person_self = { :name => "Eldridge", :age => 26}
+person_2 = { name: "Brenda", age: 24}
